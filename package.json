@@ -1,0 +1,25 @@
+{
+  "name": "diffiehellman",
+  "version": "0.0.1",
+  "description": "Diffie Hellman implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuriiBaryshev/DiffieHellman.git"
+  },
+  "keywords": [
+    "cryptography",
+    "demo",
+    "DH",
+    "Diffie-Hellman"
+  ],
+  "author": "Yurii Baryshev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YuriiBaryshev/DiffieHellman/issues"
+  },
+  "homepage": "https://github.com/YuriiBaryshev/DiffieHellman#readme"
+}
